@@ -1,3 +1,3 @@
 # bootstrapo
 
-<h1>this is frsh cart website in bootstrap</h1>
+<h1>This is fresh cart website in bootstrap</h1>
